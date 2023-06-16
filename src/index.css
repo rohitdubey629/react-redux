@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.btn-wrapper button{
+  background-color: red;
+  color: white;
+  border-radius: 4px;
+  height: 30px;
+  margin-top: 55px;
+}
+.img-wrapper img{
+  width: 100px;
+}
+
+.cart-wrapper{
+  height: 150px;
+  width: 500px;
+  border: 1px solid black;
+  margin-left: 10%;
+}
+
+.text-wrapper{
+  margin-left: -30px;
+  margin-top: 45px;
+  margin-right: 33px;
+}
+.item{
+  float: left;
+  width: 150px;
+  padding: 7px;
+  display: inline-block;
+}
+.add-To-Cart img{
+  position: absolute;
+  width: 80px;
+  right: 1%;
+  top: 1%;
+}
+/* .add-To-Cart img{
+  width: 69px;
+} */
